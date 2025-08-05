@@ -8,9 +8,7 @@ A project report
 <BR>
 On
 <br>
-Expense accounts
-<br>
-(AISP 121)
+Carrer Navigator
 <br>
 
 Submitted by
